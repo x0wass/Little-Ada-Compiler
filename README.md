@@ -36,6 +36,6 @@ To use the Little Ada Compiler, you will need a functional installation of OCaml
 This project is intended as an educational resource to comprehend the process of compilation. It is not designed to replace comprehensive Ada compilers employed in production environments.
 Please resort to established Ada compilers for any serious or production-grade Ada development. Little Ada and this compiler offer only a subset of the functionality of the full Ada language and its compilers.
 
-# Note
+## Note
     The project compiles and has been tested on two different versions of ocaml.
     We also encountered problems with invisible characters on the test files supplied, which we understand to be a problem between linux and windows.
